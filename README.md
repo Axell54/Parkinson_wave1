@@ -1,6 +1,6 @@
 # Project
-
-## Uso (pipelines)
+## Collab Code in Notebooks
+## Use (pipelines)
 
 ### Extraer features del dominio "spiral" y entrenar RandomForest
 ```bash
